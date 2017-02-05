@@ -1,8 +1,12 @@
 {
-  "name": "yarn",
+  "name": "Personal Portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "compile": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
