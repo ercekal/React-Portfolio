@@ -2,5 +2,10 @@
   "name": "yarn",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.22.0"
+  }
 }
